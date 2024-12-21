@@ -1,7 +1,4 @@
 #!/bin/bash
-hostnamectl set-hostname DevOps
-bash
-
 # Function to handle sleep
 sleep_func() {
   local duration=$1
